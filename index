@@ -3,12 +3,12 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>My First Website</title>
+  <title>Polaris Studios</title>
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
   <header>
-    <h1>Welcome to My Website</h1>
+    <h1>Polaris Studios</h1>
     <nav>
       <a href="#">Home</a> |
       <a href="#">About</a> |
@@ -18,8 +18,8 @@
 
   <main>
     <section>
-      <h2>About Me</h2>
-      <p>This is a simple website built from scratch.</p>
+      <h2>About Us</h2>
+      <p>Polaris Studios was founded together by three friends</p>
     </section>
   </main>
 
